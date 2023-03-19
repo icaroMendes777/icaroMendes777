@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Icaro de Almeida Mendes</h1>
-<h3 align="center">Web developer, former Buddhist Monk.</h3>
+<h3 align="center">Web developer from Brazil 🇧🇷</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
