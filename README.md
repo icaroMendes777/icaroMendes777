@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Icaro de Almeida Mendes</h1>
 <h3 align="center">Web developer from Brazil 🇧🇷</h3>
 
-<p>Here you can find my public repositories, most of them are study projects. I've been running more private (commercial) projects nowadays, so you may not be able to see all the action going on.</p>
+<p>Here you can find my public repositories, most of them are study projects. I've been running more private (commercial) projects nowadays, so you may not be able to see all the action going on. But feel welcome to have a look around.</p>
 
 <h3 align="left">Contact me by: icaroamendes@gmail.com</h3>
 <p align="left">
