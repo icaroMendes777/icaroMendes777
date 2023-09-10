@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Icaro de Almeida Mendes</h1>
 <h3 align="center">Web developer from Brazil 🇧🇷</h3>
 
-En:
+<h4>En:</h4>
 <p>Here you can find my public repositories, most of them are study projects. I've been running more private (commercial) projects nowadays, so you may not be able to see all the action going on. But feel welcome to have a look around.</p>
-Pt:
+<h4>Pt:</h4>
 <p>Nessa conta tenho alguns repositórios públicos, a sua maioria são projetos de programação para estudo. Ultimamente estou envolvido com alguns projetos comerciais, por isso não tenho tido tantos commits públicos. Sinta-se à vontade para mandar uma mensagem se quiser:</p>
 
 
