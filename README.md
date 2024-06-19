@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Email: icaroamendes@gmail.com</h3>
-<h3 align="left">Linkedin: https://www.linkedin.com/in/icaro-mendes-338688256/</h3>
+<h3 align="left">Linkedin:  <a href="https://www.linkedin.com/in/icaro-a-mendes/">icaro-a-mendes</a></h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
